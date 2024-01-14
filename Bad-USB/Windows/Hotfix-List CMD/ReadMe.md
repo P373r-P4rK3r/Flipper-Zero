@@ -3,6 +3,7 @@ This script will list all the installed hotfixes on a Windows machine.
 
 <h2>How to use?</h2>
 This script is plug and play.
+Copy to your Bad USB Folder on Flipper
 
 <h2>Features</h2>
 opens a command prompt and list all installed hotfixes
