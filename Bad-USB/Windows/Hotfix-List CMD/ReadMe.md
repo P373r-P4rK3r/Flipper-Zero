@@ -6,7 +6,7 @@ This script is plug and play.<br>
 Copy it to your Bad USB Folder on Flipper Zero.
 
 <h2>Features</h2>
-opens a command prompt and list all installed hotfixes
+Opens a command prompt and list all installed hotfixes on the screen.
 
 <h2>Compatibility</h2>
 - Windows 10 <br>
